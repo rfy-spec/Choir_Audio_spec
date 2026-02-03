@@ -1,1 +1,0 @@
-# Optional: visualization/plotting (corresponds to canvas_render)

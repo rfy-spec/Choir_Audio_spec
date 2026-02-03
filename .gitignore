@@ -31,6 +31,10 @@ data/example/*
 outputs/*
 !outputs/reports/.gitkeep
 !outputs/figures/.gitkeep
+pitch_eval_repro/outputs/*
+
+
+
 
 # ===== 环境变量 / 密钥文件 =====
 .env

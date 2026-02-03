@@ -40,9 +40,6 @@ pitch_eval_repro/                    # 复现师姐音准评估的独立模块
 - **pitch_estimator.py**: 音高频率估计的核心算法，对应原始代码中的pitch_analyzer
 - **pipeline.py**: 完整的分析流水线，包括帧切分、频率估计、cents计算和统计分析，对应analysis_pipeline
 
-### 可选模块 (Optional Modules)  
-- **render.py**: 可视化和绘图功能，对应canvas_render
-- **color_map.py**: 音准偏差到颜色的映射，对应color_map
 
 ### 脚本和配置 (Scripts & Config)
 - **scripts/run_eval.py**: 命令行入口点，提供简单的接口来运行音准评估

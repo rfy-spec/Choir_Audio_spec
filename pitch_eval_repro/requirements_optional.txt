@@ -1,2 +1,0 @@
-# Optional dependencies for pitch evaluation reproduction module
-# Add any additional dependencies here if needed
